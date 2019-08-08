@@ -16,5 +16,9 @@ min-height: 40vh;
 }
 body{
 background-image: url(https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555285036/shape/mentalfloss/istock-513298210.jpg);
-  background-size: 111%;
+  background-size: 87%;
+}
+p{
+  font-size: .25em;
+
 }
