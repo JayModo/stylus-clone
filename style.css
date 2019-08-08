@@ -1,0 +1,20 @@
+.row-img1{
+  background-image: url(https://i.kinja-img.com/gawker-media/image/upload/s--Dl8AFO-Z--/c_scale,f_auto,fl_progressive,q_80,w_800/xj2ux4bh5jm0y5wpcyz9.jpg);
+  min-height: 45vh;
+  background-size: 100%;
+}
+.row-center{
+  background-color: rgb(120, 145, 155);
+  min-height: 35vh;
+  justify-content: center;
+}
+.row-search{
+min-height: 35vh;
+}
+.row-end{
+min-height: 40vh;
+}
+body{
+background-image: url(https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555285036/shape/mentalfloss/istock-513298210.jpg);
+  background-size: 111%;
+}
